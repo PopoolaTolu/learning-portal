@@ -51,7 +51,7 @@ const OnboardingOne = ({ onNext }) => (
       <p className="mb-4">Discover a world of knowledge at your fingertips.</p>
       <button
         onClick={onNext}
-        className="w-full bg-blue-600 text-white p-2 rounded hover:bg-blue-700"
+        className="w-full bg-blue-600 text-black p-2 rounded hover:bg-blue-700"
       >
         Next
       </button>
