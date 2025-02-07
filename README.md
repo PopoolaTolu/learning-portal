@@ -32,7 +32,8 @@ Instructions for new contributors:
 - [Your Name](https://github.com/yourusername) - Project Lead
 
 ### Contributors
-- [First Contributor](https://github.com/contributor1) - Frontend Developer
+Popoola Tolu
+Information Technology
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
