@@ -40,6 +40,9 @@ Information Technology
 
 Adekunle Ayomide
 Computer Science
+
+Ajao Abdulhamid Olamiposi
+Software Engineering 
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
