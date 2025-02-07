@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+# Online Learning Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern web-based learning platform built with React.js.
 
-## Available Scripts
+## 🎯 Project Overview
+An interactive learning platform that provides:
+- User authentication
+- Course management
+- Interactive learning materials
+- Progress tracking
 
-In the project directory, you can run:
+## 🚀 Quick Start
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run development server: `npm start`
 
-### `npm start`
+## 💻 Tech Stack
+- React.js
+- Tailwind CSS
+- Node.js
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 👥 Contributors
+<!-- 
+Instructions for new contributors:
+1. Add your name as a list item below
+2. Follow the format: [Your Name](Your GitHub Profile Link) - Your Role
+3. Commit the change with message "Add [your name] to contributors list"
+-->
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Core Team
+- [Your Name](https://github.com/yourusername) - Project Lead
 
-### `npm test`
+### Contributors
+- [First Contributor](https://github.com/contributor1) - Frontend Developer
+<!-- New contributors: Add your name above this line -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📝 How to Contribute
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
 
-### `npm run build`
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📞 Contact
+[Your Name] - [your.email@example.com]
