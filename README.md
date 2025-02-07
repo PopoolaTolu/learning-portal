@@ -34,6 +34,9 @@ Instructions for new contributors:
 ### Contributors
 Popoola Tolu
 Information Technology
+
+Alatishe Temitayo
+Information Technology
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
