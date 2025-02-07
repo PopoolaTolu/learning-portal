@@ -20,7 +20,8 @@ An interactive learning platform that provides:
 - Node.js
 
 ## 👥 Contributors
-<!-- 
+<!-- Popoola Tolu
+Information Technology
 Instructions for new contributors:
 1. Add your name as a list item below
 2. Follow the format: [Your Name](Your GitHub Profile Link) - Your Role
