@@ -37,6 +37,9 @@ Information Technology
 
 Alatishe Temitayo
 Information Technology
+
+Adekunle Ayomide
+Computer Science
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
