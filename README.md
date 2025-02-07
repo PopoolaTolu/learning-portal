@@ -49,7 +49,9 @@ Computer Science
 
 Elom Damilola
 Computer Science
-<!-- New contributors: Add your name above this line -->
+
+Odumuyiwa Ayodeji joseph
+Computer Science
 
 ## 📝 How to Contribute
 1. Fork the repository
