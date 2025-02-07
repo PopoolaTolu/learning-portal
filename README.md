@@ -29,7 +29,7 @@ Instructions for new contributors:
 -->
 
 ### Core Team
-- [Your Name](https://github.com/yourusername) - Project Lead
+- Popoola Tolu (https://github.com/yourusername) - Project Lead
 
 ### Contributors
 Popoola Tolu
@@ -64,4 +64,4 @@ Computer Science
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
-[Your Name] - [your.email@example.com]
+Popoola Tolu - [populartolu@gmail.com]
