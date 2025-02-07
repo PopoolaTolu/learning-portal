@@ -33,7 +33,7 @@ Instructions for new contributors:
 
 ### Contributors
 Popoola Tolu
-Information Technology
+Information Technology 
 
 Alatishe Temitayo
 Information Technology
@@ -43,6 +43,9 @@ Computer Science
 
 Ajao Abdulhamid Olamiposi
 Software Engineering 
+
+Balogun Daniel 
+Computer Science 
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
