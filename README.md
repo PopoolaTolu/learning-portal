@@ -46,6 +46,9 @@ Software Engineering
 
 Balogun Daniel 
 Computer Science 
+
+Elom Damilola
+Computer Science
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
